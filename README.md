@@ -11,7 +11,7 @@ npm install usestate
 
 npm start 
 
-localhost:3000 de açılacaktır 
+localhost:3000'de açılacaktır 
 
 
 
