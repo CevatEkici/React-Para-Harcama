@@ -15,7 +15,7 @@ localhost:3000'de açılacaktır
 
 
 
-![paraharcama1](https://github.com/CevatEkici/React-Para-Harcama/assets/127509097/1bf86b4d-b60e-4c02-b8c5-dc3c4eef0f45)
+![paraharcama1](https://github.com/CevatEkici/React-Para-Harcama/assets/127509097/9546e7b1-32d3-48c3-8aaa-168be1769acd)
 
 
 
@@ -27,4 +27,6 @@ localhost:3000'de açılacaktır
 
 
 
-![paraharcama2](https://github.com/CevatEkici/React-Para-Harcama/assets/127509097/8b0b50f8-adc3-4882-9408-4d96d741de48)
+
+![paraharcama2](https://github.com/CevatEkici/React-Para-Harcama/assets/127509097/c8c04d35-8d78-4862-855f-17e02a39c3ca)
+
